@@ -1,0 +1,24 @@
+{
+  "name": "offscreen",
+  "version": "0.0.1",
+  "description": "Tools for optimized image compositing",
+  "main": "dist/offscreen.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydaniv/offscreen.git"
+  },
+  "keywords": [
+    "image",
+    "compositing",
+    "offscreencanvas"
+  ],
+  "author": "Yehonatan Daniv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydaniv/offscreen/issues"
+  },
+  "homepage": "https://github.com/ydaniv/offscreen#readme"
+}
